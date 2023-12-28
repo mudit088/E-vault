@@ -12,7 +12,7 @@ const Form = () => {
           }}>
           <div className='float-right'>
           <img
-            src="7119570.jpg"
+            src="./7119570.jpg"
             alt=""
             className='max-w-400px max-h-400px mr-16'
             style={{ width: '1000px', height:'800px'  }}
